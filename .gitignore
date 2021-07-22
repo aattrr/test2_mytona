@@ -1,0 +1,10 @@
+.idea
+__pycache__
+tmp.py
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
